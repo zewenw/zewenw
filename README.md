@@ -14,12 +14,12 @@ I'm a software engineer with a passion for open-source projects and technology. 
 - IDE: IntelliJ
 - CI/CD: Docker, Jenkins, Maven, Kubernetes
 - Certification: AWS Certificat Developer 
-## 🌱 certifications
+## :medal_sports: Certifications
 
 ![AWS Certified Solutions Architect - Associate](https://github.com/zewenw/zewenw/blob/master/aws-certified-solutions-architect-associate.png)
 ![AWS Certified Developer - Associate](https://github.com/zewenw/zewenw/blob/master/aws-certified-developer-associate.png)
 
-## 🌱 I'm currently learning
+## :books: I'm currently learning
 
 - ReactJs
 - DevOps
