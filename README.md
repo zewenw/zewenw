@@ -1,6 +1,6 @@
 # Hello, I'm Owen Wang 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=john-doe)
+![Profile Views](https://komarev.com/ghpvc/?username=zewenw)
 
 
 I'm a software engineer with a passion for open-source projects and technology. Welcome to my GitHub profile!
@@ -16,7 +16,8 @@ I'm a software engineer with a passion for open-source projects and technology. 
 - Certification: AWS Certificat Developer 
 ## 🌱 certifications
 
-[![AWS Certified Solutions Architect - Associate](https://github.com/zewenw/zewenw/blob/master/aws-certified-solutions-architect-associate%20(2).png)
+![AWS Certified Solutions Architect - Associate](https://github.com/zewenw/zewenw/blob/master/aws-certified-solutions-architect-associate.png)
+![AWS Certified Developer - Associate](https://github.com/zewenw/zewenw/blob/master/aws-certified-developer-associate.png)
 
 ## 🌱 I'm currently learning
 
