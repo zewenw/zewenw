@@ -26,7 +26,7 @@ I'm a software engineer with a passion for open-source projects and technology. 
 
 ## 🚀 My projects
 
-- [FnailProject](https://github.com/zewenw/final_project) - Java Based Develop Framework.
+- [FnailProject](https://github.com/zewenw/final_project) - Java-Based Microservice Develop Framework.
 
 ## 📫 Let's connect
 
