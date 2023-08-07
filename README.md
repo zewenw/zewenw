@@ -30,7 +30,7 @@ I'm a software engineer with a passion for open-source projects and technology. 
 
 ## 📫 Let's connect
 
-- LinkedIn: [Owen Wang](https://www.linkedin.com/in/owenwang8527/)
-- Blog: [Owen Wang](https://www.yuque.com/wangzewen-jlbvo)
+- LinkedIn: [Zewen(Owen) Wang](https://www.linkedin.com/in/owenwang8527/)
+- Blog: [Zewen(Owen) Wang](https://www.yuque.com/wangzewen-jlbvo)
 
 Feel free to explore my repositories and reach out to me. I'm always open to collaboration and new ideas!
