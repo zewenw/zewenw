@@ -11,7 +11,7 @@ I'm a software engineer with a passion for open-source projects and technology. 
 - Frameworks: Spring Boot, Spring Cloud, React
 - Databases: PostgreSQL, MySQL, MongoDB
 - Version Control: Git
-- IDE: IntelliJ
+- IDE: IntelliJ, VsCode
 - CI/CD: Docker, Jenkins, Maven, Kubernetes
 
 ## :medal_sports: Certifications
