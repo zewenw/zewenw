@@ -7,12 +7,13 @@ I'm a software engineer with a passion for open-source projects and technology. 
 
 ## 🔧 Technologies & Tools
 
-- Languages: Java, Python, JavaScript
-- Frameworks: Spring Boot, Spring Cloud, React
-- Databases: PostgreSQL, MySQL, MongoDB
-- Version Control: Git
-- IDE: IntelliJ, VsCode
-- CI/CD: Docker, Jenkins, Maven, Kubernetes
+- Language: Java(7 years), Python, JavaScript, Shell, SQL, HTML/CSS
+- Framework: Springboot, SpringCloud, (JPA)Hibernate, Mybatis, Junit, ReactJs
+- Database: SQL(MySql, PostgreSQL), NoSQL(MongoDB)
+- CI/CD: GitLab(GitHub), Jenkins, Maven, Docker, Kubernetes, Linux
+- Cloud: AWS, Alibaba, GCP
+- Tools: 	Intellij, VsCode, PyCharm, Eclipse, Postman etc
+- Others: Restful API, Microservice Architecture, Oauth 2.0, MQ(Kafka, RocketMQ) etc
 
 ## :medal_sports: Certifications
 
