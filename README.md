@@ -1,4 +1,4 @@
-# Hello, I'm Zewen Wang 👋
+# Hello, I'm Owen Wang 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zewenw)
 
