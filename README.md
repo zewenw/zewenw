@@ -22,8 +22,12 @@ I'm a software engineer with a passion for open-source projects and technology. 
 
 ## :books: I'm currently learning
 
-- ReactJs
 - DevOps
+
+## :rowing_man My hobby
+
+- WorkOut
+- Running
 
 ## 🚀 My projects
 
