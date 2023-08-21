@@ -24,9 +24,9 @@ I'm a software engineer with a passion for open-source projects and technology. 
 
 - DevOps
 
-## :rowing_man My hobby
+## :climbing_woman: My hobby
 
-- WorkOut
+- Workout
 - Running
 
 ## 🚀 My projects
